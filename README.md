@@ -1,2 +1,2 @@
-# phonegap-kalah
-Phonegap wrapper for kalah
+# phonegap-barricade
+Phonegap wrapper for barricade
